@@ -4,7 +4,7 @@ from telegram import Update
 from telegram.ext import Updater, CommandHandler, MessageHandler, Filters, CallbackContext
 
 # ============== BOT TOKEN ==============
-TELEGRAM_TOKEN = 'YOUR_BOT_TOKEN'
+TELEGRAM_TOKEN = '8032593273:AAFWNJzJzt6pnePry8fhwE8glnWRiSs-ick'
 # =======================================
 
 def start(update: Update, context: CallbackContext):
